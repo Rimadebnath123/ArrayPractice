@@ -1,17 +1,20 @@
 package Arrays;
+//import java.util.*;
 //sort a array in Ascending order:
 public class ArraySort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 int arr[] = { 0, 23, 14, 12, 9 };
+		// Arrays.sort(arr);
 		 int temp=0;
 		 for(int i=0;i<arr.length;i++) { 
 		for(int j=i+1;j<arr.length;j++) {
 			  if(arr[i] > arr[j]) {    
                   temp = arr[i];    
                   arr[i] = arr[j];    
-                  arr[j] = temp;    
+                  arr[j] = temp;   
+                 
               }     
 			
 		}

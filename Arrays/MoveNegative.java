@@ -23,7 +23,7 @@ public class MoveNegative {
                 }
             }
         }
-        
+        // method converts the contents of the array arr into a string representation
         System.out.println(Arrays.toString(arr));
     
 	}

@@ -6,7 +6,7 @@ public class kthSmallest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Integer arr[] = new Integer[] { 12, 3, 5, 7, 19 };
+		int arr[] = { 12, 3, 5, 7, 19 };
 		int k=3;
 		 Arrays.sort(arr);
 		// Printing each element of the sorted array
