@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.HashSet;
 
-//Longest Consecutive Subsequence
+//Longest Consecutive Subsequence o(1),o(n)
 //Given an array of integers, find the length of the longest sub-sequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order. 
 public class LongestConsecuSubSeq {
 
