@@ -1,5 +1,5 @@
 package String;
-
+//display the longest word
 public class LongestWord {
     public static void main(String[] args) {
         String s = "I am a girl";

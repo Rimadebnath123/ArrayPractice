@@ -1,5 +1,5 @@
 package Normal;
-
+//automorphic number,25, 76 are automorphic numbers because their square is 625 and 5776, respectively and the last two digits of the square represent the number itself. Some other automorphic numbers are 5, 6, 36, 890625, etc.
 import java.util.Scanner;
 
 public class Automorphic {

@@ -1,5 +1,5 @@
 package Normal;
-
+//1/2, 2/3, 3/5, 4/7, 5/11, 6/13.....n
 import java.util.Scanner;
 
 public class PrintSequence {

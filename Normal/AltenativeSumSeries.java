@@ -1,5 +1,5 @@
 package Normal;
-
+//The series is: 1-2+3-4+5-6...n
 import java.util.Scanner;
 
 public class AltenativeSumSeries {

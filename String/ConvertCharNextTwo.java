@@ -1,7 +1,7 @@
 package String;
 
 import java.util.Scanner;
-
+//convert each character to second next
 public class ConvertCharNextTwo {
 
 	public static void main(String[] args) {
@@ -33,7 +33,7 @@ public class ConvertCharNextTwo {
             char ch = s.charAt(i);           
             result += getNextChar(ch);;
         }
-
+        sc.close();
         System.out.println("Converted sentence:");
         System.out.println(result);
     }
