@@ -21,8 +21,8 @@ public class LongestCommonPrefix {
 		            // .indexOf() return index of that substring from string.
 		            while(arr[i].indexOf(result) != 0){
 		              
-		                // update matched substring prefx
-		                result = result.substring(0, result.length()-1);
+		                // update matched substring 
+		                result = result.substring(0, result.length()-1);//geeksforgeek
 		              
 		                // check for empty case. direct return if true..
 		                if(result.isEmpty()){

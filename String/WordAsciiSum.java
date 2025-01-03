@@ -2,6 +2,7 @@ package String;
 //10words in array and find sum of ascii code from 1st two alphabet
 //from each word stored in another integer arr and sort the sum 
 //of asii code and print with word
+//time com O(nlogn).space O(1) 
 
 import java.util.Arrays;
 import java.util.Scanner;
